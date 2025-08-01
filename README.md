@@ -2,6 +2,12 @@
 
 A full-stack real-time chat application built with React, TypeScript, Node.js, Express, and Socket.IO.
 
+
+https://github.com/user-attachments/assets/87707fb0-2c32-4966-8468-643be7805147
+
+
+
+
 ## Features
 
 - **Real-time messaging** with Socket.IO
